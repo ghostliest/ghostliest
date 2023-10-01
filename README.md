@@ -26,6 +26,6 @@
 
 ## 🚀 Projects
 
+### [restaurant-ddd](https://github.com/ghostliest/restaurant-ddd)
 ### [the-blog](https://github.com/ghostliest/blog) 👉 [DEMO](https://blog-ghostliest.vercel.app)
-#### [the-screen](https://github.com/ghostliest/the-screen) 👉 [DEMO](https://the-screen.vercel.app)
-#### [other](https://github.com/ghostliest?tab=repositories)
+### [the-screen](https://github.com/ghostliest/the-screen) 👉 [DEMO](https://the-screen.vercel.app)
